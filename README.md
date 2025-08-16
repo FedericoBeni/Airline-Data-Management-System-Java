@@ -1,4 +1,4 @@
-# Java Airline Data Query System
+# Airline Data Management System with Java
 
 A Java application developed for the Object-Oriented Programming exam. The project implements a system to parse, model, and query a dataset for an airline's operations, including its fleet, airports, and flights.
 
